@@ -3,4 +3,7 @@
 
 ### Install
 ```
-git clone 
+git clone https://github.com/f0rc3ps/TheHive.git
+cd TheHive
+docker-compose up -d
+```
